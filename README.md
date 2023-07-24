@@ -1,11 +1,11 @@
 ### Hi there, my name is Aidan Astridge.
 
-I am a Python data analyst and developer.
+I'm a Python data analyst and developer.
 I'm always open to collaborating!
 
-### Contact
+### Contact me!
 
-
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 ### The tricks! 
