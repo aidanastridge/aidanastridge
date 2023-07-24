@@ -1,7 +1,5 @@
 ## Hi there, my name is Aidan Astridge.
 
-I'm a Python data analyst and developer.
-
 I'm always open to collaborating!
 
 ### The tricks! 
