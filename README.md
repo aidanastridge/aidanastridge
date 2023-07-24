@@ -1,7 +1,7 @@
 ### Hi there, my name is Aidan Astridge.
 
-I am an analyst with a passion for A/B testing, regression, optimization, and forecasting.
-I'm learning new Python libraries every week and I would love to apply them to your project.
+I am a Python data analyst and developer with a passion for hypothesis testing, regression analysis, optimization, and forecasting.
+
 
 
 
