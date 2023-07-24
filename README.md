@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 🪄
 
 ### The tricks! 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
