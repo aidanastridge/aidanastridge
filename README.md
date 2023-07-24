@@ -1,7 +1,9 @@
 ### Hi there, my name is Aidan Astridge.
 
-I am a Python data analyst and developer with a passion for hypothesis testing, regression analysis, optimization, and forecasting.
+I am a Python data analyst and developer.
+I'm always open to collaborating!
 
+### Contact
 
 
 
