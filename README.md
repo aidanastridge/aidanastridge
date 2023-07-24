@@ -1,4 +1,10 @@
-### Hi there 
+### Hi there, my name is Aidan Astridge.
+
+I am an analyst with a passion for A/B testing, regression, optimization, and forecasting.
+I'm learning new Python libraries every week and I would love to apply them to your project.
+
+
+
 
 ### The tricks! 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
