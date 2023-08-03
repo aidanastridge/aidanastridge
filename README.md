@@ -1,4 +1,4 @@
-### Hi there, my name is Aidan Astridge.
+### Hi there, my name is Aidan Astridge. 👋
 
 I'm a Python developer that is always open to collaborating!
 
