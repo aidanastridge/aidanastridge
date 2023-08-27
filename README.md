@@ -1,6 +1,6 @@
 ### Hi there, my name is Aidan Astridge. 👋
 
-I'm a self-taught Python developer that is always open to collaborating!
+I'm a self-taught Python developer with a Bachelor of Commerce focused on Finance and Operations Research.
 
 ### My tricks! 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
