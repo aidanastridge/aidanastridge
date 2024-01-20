@@ -1,6 +1,6 @@
 ### Hi there, my name is Aidan Astridge. 👋
 
-I'm a self-taught Python developer with a Bachelor of Commerce focused on Market Research.
+I'm a self-taught Python developer with a Bachelor of Commerce focused on Finance and Market Research.
 
 ### My tools! 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
