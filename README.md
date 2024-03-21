@@ -1,7 +1,7 @@
 ### Hi there, my name is Aidan Astridge. 👋
 
 I'm a self-taught Python developer with a Bachelor of Commerce focused on Management Science.
-Passionate about AML, Real Estate, and ESG.
+Passionate about AML, Real Estate, and Sustainability.
 
 ### My tools! 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
