@@ -9,7 +9,7 @@ I'm a self-taught Python and R developer/data-scientist with a Bachelor of Comme
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau}(https://camo.githubusercontent.com/f68fc7de60bfbf1604f909820bf109086b3f934b20d0d2c83d84a0ff75a93ffc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7461626c6561752d3666316162313f7374796c653d666f722d7468652d6261646765266c6f676f3d7461626c656175266c6f676f436f6c6f723d7768697465)
+![Tableau](https://img.shields.io/badge/tableau-6f1ab1?style=for-the-badge&logo=tableau&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
