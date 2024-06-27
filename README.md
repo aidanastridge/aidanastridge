@@ -1,6 +1,6 @@
 ### Hi there, my name is Aidan Astridge. 👋
 
-I'm a self-taught Python and R developer/data-scientist with a Bachelor of Commerce focused on Management Science.
+I'm a self-taught Python and R developer/data-scientist with a Bachelor of Commerce from York University focused on Management Science.
 
 ### My tools! 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
