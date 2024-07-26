@@ -1,8 +1,5 @@
-### Hi there, my name is Aidan Astridge. 👋
+### Toronto Data Scientist
 
-I'm a Python and R developer/data-scientist with a Bachelor of Commerce from York University focused on Management Science.
-
-### My tools! 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
