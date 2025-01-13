@@ -1,6 +1,6 @@
 ## Hey!
 
-My name is Aidan Astridge and I am developer with a passion for Typescript and Python. Going to York University for Management Science, I fell in love with programming 
+### My name is Aidan Astridge and I am developer with a passion for Typescript and Python. Going to York University for Management Science, I fell in love with programming 
 from my statistics courses.  
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
