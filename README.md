@@ -1,6 +1,6 @@
 ## Hey!
 
-##### My name is Aidan Astridge and I'm developer with a passion for Typescript and Python. Going to [!York University] for Management Science/Operations Research, I fell in love with programming and statistics. I'm also an artist, puzzler, and a Neurological fighter.
+##### My name is Aidan Astridge and I'm developer with a passion for Typescript and Python. Going to [!York University]() for Management Science/Operations Research, I fell in love with programming and statistics. I'm also an artist, puzzler, and a Neurological fighter.
 
 
 
