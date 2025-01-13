@@ -2,7 +2,7 @@
 
 ##### My name is Aidan Astridge and I am developer with a passion for Typescript and Python. Going to York University for Management Science/Operations Research, I fell in love with programming. I'm also an artist art, puzzler, and a Neurological fighter.
 
-//
+
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
