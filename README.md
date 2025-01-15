@@ -1,4 +1,5 @@
-![Aidan](https://github.com/aidanastridge/aidanastridge/blob/main/1000009373-modified.png)
+
+<img src="https://github.com/aidanastridge/aidanastridge/blob/main/1000009373-modified.png" alt="drawing" width="200"/>
 
 
 ### Hey!
