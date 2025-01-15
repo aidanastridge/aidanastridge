@@ -1,5 +1,5 @@
 
-<center><img src="https://github.com/aidanastridge/aidanastridge/blob/main/1000009373-modified.png" alt="drawing" width="200"</image></center>
+<p align="center"><img src="https://github.com/aidanastridge/aidanastridge/blob/main/1000009373-modified.png" alt="drawing" width="200"</image></p>
 
 
 ### Hey!
