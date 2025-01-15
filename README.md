@@ -1,4 +1,4 @@
-![Aidan]()
+![Aidan](https://github.com/aidanastridge/aidanastridge/blob/main/1000009373-modified.png)
 
 
 ### Hey!
