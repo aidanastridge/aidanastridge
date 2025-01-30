@@ -4,7 +4,7 @@
 
 ## Hey!
 
-#### My name is Aidan Astridge and I'm a developer in data visualization and web development. Went to [York University](https://www.yorku.ca/) for Management Science/Operations Research. I'm also an artist, puzzler, and a Neurological fighter!
+#### My name is Aidan Astridge and I'm a developer in data visualization and web development. I went to [York University](https://www.yorku.ca/) for Management Science/Operations Research. I'm also an artist, puzzler, and a Neurological fighter!
 
 
 
