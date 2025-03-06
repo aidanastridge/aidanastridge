@@ -1,6 +1,4 @@
 
-<p align="center"><img src="https://github.com/aidanastridge/aidanastridge/blob/main/1000009373-modified.png" alt="drawing" width="150"</image></p>
-
 
 ## Hey!
 
