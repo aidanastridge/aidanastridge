@@ -1,7 +1,7 @@
 # Hello!
 
 
-#### My name is Aidan Astridge and I'm a developer in data visualization and the web. I went to [York University](https://www.yorku.ca/) for Management Science/Economics. I'm also an artist, puzzler, and an Epilepsy fighter!
+#### My name is Aidan Astridge and I'm a developer in data visualization and investing tools. I went to [York University](https://www.yorku.ca/) for Management Science/Economics. I'm also an artist, puzzler, and an Epilepsy fighter!
 
 
 
