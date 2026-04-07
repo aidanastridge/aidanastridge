@@ -1,13 +1,7 @@
 ##### Support:
+Epilepsy Toronto and SickKids
 
-
-
-##### Favourite movies:
-Anatomy of a Fall
-<br>
-Unstoppable
-
-##### Favourite games:
+##### Playing:
 Into The Breach
 <br>
 Faster Than Light
