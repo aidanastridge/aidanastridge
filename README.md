@@ -7,7 +7,7 @@ Into The Breach
 Faster Than Light
 
 ##### Follow me on:
-[X]()
+[X](https://x.com/aidanastridge)
 <br>
 [Instagram]()
 <br>
