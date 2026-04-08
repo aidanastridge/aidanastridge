@@ -1,5 +1,5 @@
 ##### Support:
-Epilepsy Toronto and SickKids
+Epilepsy Toronto and SickKids.
 
 ##### Playing:
 Into The Breach
