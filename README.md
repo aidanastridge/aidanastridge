@@ -1,4 +1,4 @@
-[Website](https://x.com/aidanastridge)
+[Portfolio](https://x.com/aidanastridge)
 
 #### Tech Stack
 Typescript
@@ -23,8 +23,6 @@ Toronto Creative Code
 <br>
 
 #### Contact:
-[Website](https://x.com/aidanastridge)
-<br>
 [X](https://x.com/aidanastridge)
 <br>
 [Instagram]()
