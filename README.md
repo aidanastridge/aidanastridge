@@ -22,7 +22,7 @@ Toronto Javascript
 Toronto Creative Code
 <br>
 
-#### Connect with me:
+#### Connect
 [X](https://x.com/aidanastridge)
 <br>
 [LinkedIn]()
