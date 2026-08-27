@@ -1,4 +1,4 @@
-####[Website](https://x.com/aidanastridge)
+[Website](https://x.com/aidanastridge)
 
 #### Tech Stack
 Typescript
