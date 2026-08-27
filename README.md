@@ -7,7 +7,7 @@ Python
 Julia
 <br>
 
-##### Follow me on:
+#### Follow me on:
 [X](https://x.com/aidanastridge)
 <br>
 [Instagram]()
