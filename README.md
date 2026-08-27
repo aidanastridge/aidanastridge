@@ -1,8 +1,8 @@
-##### Support:
-Epilepsy Toronto and SickKids.
 
-##### Playing:
-Into The Breach
+##### Tech Stack
+Typescript
+Python
+Julia
 
 ##### Follow me on:
 [X](https://x.com/aidanastridge)
