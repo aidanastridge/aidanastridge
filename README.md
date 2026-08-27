@@ -25,7 +25,8 @@ Toronto Creative Code
 #### Contact:
 [X](https://x.com/aidanastridge)
 <br>
+[LinkedIn]()
+<br>
 [Instagram]()
 <br>
-[LinkedIn]()
 
