@@ -6,6 +6,14 @@ Python
 Julia
 <br>
 
+#### Production tools
+Bitwig
+<br>
+DaVinci Resolve
+<br>
+Blender
+<br>
+
 #### Communities
 Toronto Javascript
 <br>
