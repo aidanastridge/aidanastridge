@@ -12,7 +12,9 @@ Toronto Javascript
 Toronto Creative Code
 <br>
 
-#### Follow me on:
+#### Contact:
+[Website](https://x.com/aidanastridge)
+<br>
 [X](https://x.com/aidanastridge)
 <br>
 [Instagram]()
