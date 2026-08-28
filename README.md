@@ -3,6 +3,8 @@
 #### Tech Stack
 Typescript
 <br>
+Tailwind CSS
+<br>
 Python
 <br>
 Julia
