@@ -25,12 +25,3 @@ Toronto Javascript
 <br>
 Toronto Creative Code
 <br>
-
-#### Connect
-[X](https://x.com/aidanastridge)
-<br>
-[LinkedIn]()
-<br>
-[Instagram]()
-<br>
-
