@@ -5,6 +5,8 @@ Typescript
 <br>
 Tailwind CSS
 <br>
+Astro
+<br>
 Python
 <br>
 Julia
