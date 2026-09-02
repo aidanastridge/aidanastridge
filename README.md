@@ -11,6 +11,10 @@ Python
 <br>
 Julia
 <br>
+p5.js
+<br>
+three.js
+<br>
 
 #### Production tools
 Bitwig
