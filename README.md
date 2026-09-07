@@ -1,7 +1,9 @@
-[Website](https://x.com/aidanastridge)
+
 
 #### Tech Stack
 Typescript
+<br>
+JavaScript
 <br>
 Tailwind CSS
 <br>
