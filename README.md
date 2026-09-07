@@ -29,3 +29,6 @@ Toronto Javascript
 <br>
 Toronto Creative Code
 <br>
+Toronto DevOps
+<br>
+
