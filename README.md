@@ -3,8 +3,6 @@
 #### Tech Stack
 Typescript
 <br>
-JavaScript
-<br>
 Tailwind CSS
 <br>
 SASS
