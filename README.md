@@ -7,10 +7,14 @@ JavaScript
 <br>
 Tailwind CSS
 <br>
+SASS
+<br>
 Python
 <br>
 Julia
 <br>
+
+#### Libraries
 p5.js
 <br>
 three.js
