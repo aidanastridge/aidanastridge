@@ -11,8 +11,6 @@ Python
 <br>
 Julia
 <br>
-Kotlin
-<br>
 
 #### Libraries
 p5.js
