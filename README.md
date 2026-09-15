@@ -21,8 +21,6 @@ three.js
 #### Production tools
 Bitwig
 <br>
-DaVinci Resolve
-<br>
 Blender
 <br>
 
