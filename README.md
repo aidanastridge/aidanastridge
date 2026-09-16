@@ -17,6 +17,8 @@ p5.js
 <br>
 three.js
 <br>
+D3.js
+<br>
 
 #### Production tools
 Bitwig
