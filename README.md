@@ -1,7 +1,7 @@
 
 
 #### Tech Stack
-Typescript
+React
 <br>
 Tailwind CSS
 <br>
