@@ -25,6 +25,7 @@ Bitwig
 <br>
 Blender
 <br>
+Affinity
 
 #### Communities
 Toronto Javascript
