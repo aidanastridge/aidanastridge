@@ -3,13 +3,13 @@
 #### Tech Stack
 React
 <br>
+Svelte
+<br>
 Tailwind CSS
 <br>
 SASS
 <br>
 Python
-<br>
-Julia
 <br>
 
 #### Libraries
