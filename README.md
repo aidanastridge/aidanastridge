@@ -1,9 +1,7 @@
 
 
 #### Tech Stack
-React
-<br>
-Svelte
+JavaScript
 <br>
 Tailwind CSS
 <br>
