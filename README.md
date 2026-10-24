@@ -5,10 +5,9 @@ JavaScript
 <br>
 Tailwind CSS
 <br>
-SASS
-<br>
 Python
 <br>
+Julia
 
 #### Libraries
 p5.js
