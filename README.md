@@ -1,28 +1,18 @@
 
 
 #### Tech Stack
-JavaScript
-<br>
-Tailwind CSS
-<br>
 Python
 <br>
 Julia
-
-#### Libraries
-p5.js
 <br>
-three.js
-<br>
-D3.js
+TypeScript
 <br>
 
 #### Production tools
-Bitwig
-<br>
 Blender
 <br>
-Affinity
+DaVinci Resolve
+<br>
 
 #### Communities
 Toronto Javascript
