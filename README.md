@@ -13,8 +13,6 @@ Blender
 <br>
 DaVinci Resolve
 <br>
-Adobe
-<br>
 
 #### Communities
 Toronto Javascript
