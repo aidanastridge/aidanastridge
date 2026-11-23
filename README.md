@@ -7,8 +7,7 @@ Julia
 <br>
 TypeScript
 <br>
-SQL
-<br>
+
 
 #### Production tools
 Blender
