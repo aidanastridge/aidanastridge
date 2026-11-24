@@ -1,19 +1,11 @@
-
-
 #### Tech Stack
 Python
 <br>
-Julia
-<br>
 TypeScript
 <br>
-
-
-#### Production tools
-Blender
+Julia
 <br>
-DaVinci Resolve
-<br>
+R
 
 #### Communities
 Toronto Javascript
@@ -22,4 +14,5 @@ Toronto Creative Code
 <br>
 Toronto DevOps
 <br>
+Data For Good Toronto
 
