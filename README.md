@@ -1,18 +1,14 @@
-#### Tech Stack
-Python
-<br>
-TypeScript
-<br>
-Julia
-<br>
-R
+| Languages |
+| --- |
+| Python |
+| TypeScript |
+|Julia|
+|R|
 
-#### Communities
-Toronto Javascript
-<br>
-Toronto Creative Code
-<br>
-Toronto DevOps
-<br>
-Data For Good Toronto
+| Toronto Development </br> Communities |
+|---|
+|Javascript|
+|Creative Code|
+|DevOps|
+|Data For Good|
 
